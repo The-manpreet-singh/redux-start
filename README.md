@@ -1,4 +1,4 @@
-# React-redux
+# React-redux Udemy
 
 I created a redux-React app. I'm going to use React,redux, html5, css3 .
 
